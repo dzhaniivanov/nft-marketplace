@@ -38,7 +38,7 @@ export const EthPrice = ({ price }) => {
       <Text
         style={{
           fontFamily: FONTS.medium,
-          fontSizes: SIZES.font,
+          fontSize: SIZES.font,
           color: COLORS.primary,
         }}
       >
